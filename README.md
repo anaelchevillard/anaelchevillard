@@ -1,27 +1,10 @@
-<h1 align="center"><b>Hey there! I'm Anaël </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<div align="center">
-
-<a href="https://github.com/anaelchevillard">
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://x.com/YtAnaxel">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://www.linkedin.com/in/anaelchevillard/">
-  <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-</div>
-
-<br/>
 
 <img align="right" alt="Unicorn" src="https://media.tenor.com/EdiGYFaZg7sAAAAi/jaded-disappointed.gif" width="300"/>
 
 <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20"/> **About Me**
   
-I develop in my spare time and on cool projects. Basically,<p>
-I work on movies, but coding is fun, even if it's also a pain.
+blablabla, I develop some apps and websites<p>
+open source is cool
 
 ---
 
@@ -45,31 +28,3 @@ I work on movies, but coding is fun, even if it's also a pain.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
 </p>
 
----
-
-<img src="https://slackmojis.com/emojis/34950-winner/download" width="20"/> **GitHub Stats**
-  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anaelchevillard&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaelchevillard&theme=react&hide_border=false" height="160"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaelchevillard&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
-
----
-
-<img src="https://slackmojis.com/emojis/15285-trophy/download" width="20"/> **GitHub Trophies**
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=anaelchevillard&theme=react&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
----
-
-<img src="https://slackmojis.com/emojis/3957-winner/download" width="20"/> **Top Repositories**
-
-<p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=anaelchevillard&limit=5&theme=react&combine_all_yearly_contributions=true"/>
-</p>
