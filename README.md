@@ -1,7 +1,7 @@
 
 <img align="right" alt="Unicorn" src="https://media.tenor.com/EdiGYFaZg7sAAAAi/jaded-disappointed.gif" width="300"/>
 
-<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20"/> **About Me**
+**About Me**
   
 blablabla, I develop some apps and websites<p>
 open source is cool
